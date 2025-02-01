@@ -13,9 +13,9 @@ The goal of this project was to parse and analyze data retrieved from APIs to pe
 ## Results
 The model showed that there was a correlation between certain attributes of the places of interest and the number of bikes at nearby rental stations, albeit a weak one. I was also able to confirm that there was a statistically significant difference between the different categories of places with a Kruskal-Wallis test.
 Regression Results:
-![image 1](https://github.com/Gur212/Statistical-Modelling-Project/raw/master/images/regression_results.png "Regression Results")
+![image 1](https://github.com/Gur212/Statistical-Modelling-Project/tree/main/images/regression_results.png "Regression Results")
 Variance Between Categories:
-![image 2](https://github.com/Gur212/Statistical-Modelling-Project/raw/master/images/fs_bikes_cats.svg "Boxplots showing variance")
+![image 2](https://github.com/Gur212/Statistical-Modelling-Project/tree/main/images/fs_bikes_cats.svg "Boxplots showing variance")
 ## Challenges 
 Since we were limited to using generalised linear models, there wasn't much information to use for the analysis.
 
